@@ -24,7 +24,7 @@ Bienvenido a mi rincón creativo en GitHub. Soy un desarrollador front end y apr
 ## 🌐 Conéctate Conmigo
 ¡Hablemos sobre diseño, desarrollo y cualquier cosa tech!
 
-- 📧 [carlosclemente@dominiopersonal.com]
+- 📧 [carlosclemente2908@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlosclemented/)
 - 🌐 [Portafolio en línea](https://carlosclemente-portfolio.vercel.app/)
 
