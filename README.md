@@ -11,9 +11,8 @@ Bienvenido a mi rincón creativo en GitHub. Soy un desarrollador front end y apr
 
 ## 💼 Proyectos Destacados
 
-- 🚀 [Proyecto 1]: Un vistazo a mi contribución más reciente y emocionante.
-- 🎨 [Proyecto 2]: Diseño UI/UX que cuenta una historia por sí mismo.
-- ⚙️ [Proyecto 3]: Desarrollo front end que desafía los límites.
+- 🚀 [LandingPage](https://charmandev.com/projects/charmanfest-2025): Landing page para evento con sistema de RSVP.
+- 🎨 [App de Metas de Ahorro](https://savingsgoals.vercel.app/): Aplicación para tracking de metas financieras .
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -26,7 +25,7 @@ Bienvenido a mi rincón creativo en GitHub. Soy un desarrollador front end y apr
 
 - 📧 [carlosclemente2908@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlosclemented/)
-- 🌐 [Portafolio en línea](https://carlosclemente-portfolio.vercel.app/)
+- 🌐 [Portafolio en línea](https://charmandev.com)
 
 ¡Gracias por descubrir mi GitHub! 🚀✨
 
