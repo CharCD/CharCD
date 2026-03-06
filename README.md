@@ -11,7 +11,7 @@ Bienvenido a mi rincón creativo en GitHub. Soy un desarrollador front end y apr
 
 ## 💼 Proyectos Destacados
 
-- 🚀 [LandingPage](https://charmandev.com/projects/charmanfest-2025): Landing page para evento con sistema de RSVP.
+- 🚀 [Spotify Insights](https://spotify-insights-app-flax.vercel.app/): Dashboard interactivo conectado a la Spotify Web API para visualizar top tracks, artistas, historial reciente y características musicales con gráficas dinámicas.
 - 🎨 [App de Metas de Ahorro](https://savingsgoals.vercel.app/): Aplicación para tracking de metas financieras .
 
 ## 🛠️ Tecnologías y Herramientas
